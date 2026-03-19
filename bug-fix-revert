@@ -3,7 +3,7 @@ $ curl -X GET https://api.github.com/repos/Thanjiyappan-K/mcino-Introduction-to-
 [
   {
     "number": 1,
-    "title": "Fix typo in README",
+    "title": "Fix typo",
     "head": {
       "ref": "bug-fix-typo",
       "repo": {
