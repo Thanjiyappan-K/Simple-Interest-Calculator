@@ -4,8 +4,8 @@
 
 **Description**: Developed a full-stack Simple Interest calculating application as a part of Coursera Project
 * **Couerse Name**: Introduction to Web Development with HTML, CSS, JavaScript by IBM
-* **Credential URL**: https://www.coursera.org/account/accomplishments/certificate/5NSUBTCMSGVX
-* **Credential ID**: 5NSUBTCMSGVX
+* **Credential URL**: https://coursera.org/share/39764bc2a1ab6ffa1f872abf5055e238
+* **Credential ID**: LYVS10NDT8PF
 
 **Software used**: 
  * VS Code            
@@ -30,7 +30,7 @@
  * Javascript Cheatsheet
  * Code Submission & style guidlines
 
-**Github Profile**: https://github.com/kunaal-gupta
+**Github Profile**: https://github.com/Thanjiyappan-K
 
 **Feedback**: If you have any feedback or issue(s), please reach out to me at kunaalgupta@hotmail.com
 
